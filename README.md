@@ -15,3 +15,7 @@ vsce package
 ```
 
 3.  distribute `vscode-q-auth-*.*.*.vsix` to your user.
+
+### Example Implementations
+Example implementations are available in the `examples/` folder. Currently, the following example is included:
+- `azure_entra_id/` - Demonstrates customized authentication using Azure Entra ID.
